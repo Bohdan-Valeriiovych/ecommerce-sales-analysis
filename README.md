@@ -2,7 +2,7 @@ E-commerce Sales & Marketing Analysis
 
 Комплексний аналіз продажів інтернет-магазину меблів: від сирих даних у BigQuery до інтерактивного дашборду в Tableau.
 
-Автор: Богдан Баран
+Автор: Bohdan Baran
 Період даних: листопад 2020 — січень 2021
 Дашборд:Переглянути на Tableau Public (https://public.tableau.com/views/sales_17802683681700/E-commerceSalesMarketingPerformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
