@@ -4,7 +4,7 @@ E-commerce Sales & Marketing Analysis
 
 Автор: Богдан Баран
 Період даних: листопад 2020 — січень 2021
-Дашборд: (https://public.tableau.com/views/sales_17802683681700/E-commerceSalesMarketingPerformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Дашборд:Переглянути на Tableau Public (https://public.tableau.com/views/sales_17802683681700/E-commerceSalesMarketingPerformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 Яку проблему вирішено
