@@ -1,0 +1,43 @@
+sales_month,product_category,total_revenue,prev_month_revenue,revenue_growth_pct
+2020-11-01,Bar furniture,244466.0,,
+2020-12-01,Bar furniture,274391.0,244466.0,12.24
+2021-01-01,Bar furniture,216646.0,274391.0,-21.04
+2020-11-01,Beds,1396037.0,,
+2020-12-01,Beds,2021144.5,1396037.0,44.78
+2021-01-01,Beds,1502543.5,2021144.5,-25.66
+2020-11-01,Bookcases & shelving units,1178001.3,,
+2020-12-01,Bookcases & shelving units,1394184.8,1178001.3,18.35
+2021-01-01,Bookcases & shelving units,1068632.0,1394184.8,-23.35
+2020-11-01,Cabinets & cupboards,707734.5,,
+2020-12-01,Cabinets & cupboards,953360.5,707734.5,34.71
+2021-01-01,Cabinets & cupboards,675404.5,953360.5,-29.16
+2020-11-01,Café furniture,43526.0,,
+2020-12-01,Café furniture,53524.0,43526.0,22.97
+2021-01-01,Café furniture,41118.0,53524.0,-23.18
+2020-11-01,Chairs,1804219.8,,
+2020-12-01,Chairs,2450217.6,1804219.8,35.8
+2021-01-01,Chairs,1893311.4,2450217.6,-22.73
+2020-11-01,Chests of drawers & drawer units,283437.0,,
+2020-12-01,Chests of drawers & drawer units,340897.0,283437.0,20.27
+2021-01-01,Chests of drawers & drawer units,282228.5,340897.0,-17.21
+2020-11-01,Children's furniture,139234.0,,
+2020-12-01,Children's furniture,182723.0,139234.0,31.23
+2021-01-01,Children's furniture,145740.0,182723.0,-20.24
+2020-11-01,Nursery furniture,41819.0,,
+2020-12-01,Nursery furniture,49487.0,41819.0,18.34
+2021-01-01,Nursery furniture,50301.0,49487.0,1.64
+2020-11-01,Outdoor furniture,676087.4,,
+2020-12-01,Outdoor furniture,839107.4,676087.4,24.11
+2021-01-01,Outdoor furniture,627027.4,839107.4,-25.27
+2020-11-01,Room dividers,31339.0,,
+2020-12-01,Room dividers,25097.0,31339.0,-19.92
+2021-01-01,Room dividers,33852.0,25097.0,34.88
+2020-11-01,"Sideboards, buffets & console tables",44145.0,,
+2020-12-01,"Sideboards, buffets & console tables",40190.0,44145.0,-8.96
+2021-01-01,"Sideboards, buffets & console tables",41995.0,40190.0,4.49
+2020-11-01,Sofas & armchairs,2773289.0,,
+2020-12-01,Sofas & armchairs,3102871.0,2773289.0,11.88
+2021-01-01,Sofas & armchairs,2512094.5,3102871.0,-19.04
+2020-11-01,Tables & desks,534180.0,,
+2020-12-01,Tables & desks,696244.5,534180.0,30.34
+2021-01-01,Tables & desks,559883.0,696244.5,-19.59
