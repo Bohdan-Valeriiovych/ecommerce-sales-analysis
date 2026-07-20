@@ -92,9 +92,16 @@ data/revenue_predict.csv
 data/financial_geo.csv
 data/net_profit_dynamics.csv
 data/category_revenue_dynamics.csv
-images/pareto_analysis.png
-images/forecast_vs_actual.png
-images/correlation_heatmaps.png
+images/Pareto Analysis Revenue Distribution by User.png
+images/Actual income vs forecast.png
+images/correlation between the number of sessions and sales.png
+images/Sales dynamics by continent.png
+images/Sales dynamics by traffic channel.png
+images/Sales dynamics by device type.png
+images/Heat map of sales correlations between continents.png
+images/Heatmap of sales correlation between traffic channels.png
+images/Cross-device sales correlation.png
+images/Sales correlation among the top 5 product categories.png
 dashboard/sales_dashboard.twbx
 
 
